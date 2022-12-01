@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'jmm-ang-basic-reus-btc';
+
+  nombre:string = 'Jose';
+
 }
